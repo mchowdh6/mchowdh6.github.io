@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Electrical and Electronic Engineering, Bangladesh University of Engr and Tech (BUET), 2013
+* M.S in Electrical Engineering, Northeastern University, USA, 2016
+* Ph.D in Electrical Engineering, University of North Carolina at Charlotte, USA, 2022 (expected)
 
 Work experience
 ======
