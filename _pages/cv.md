@@ -17,10 +17,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Power, Energy and Intelligent Systems Lab (PEISL) Aug. 2019 – Present*
+Graduate Research Assistant, UNCC, Charlotte, USA
+• Developed a SOCP OPF model for single-phase and three-phase radial power distribution networks with high DGs
+penetration. The proposed convex OPF model also retrieves the bus voltage angle difference.
+• With the retrieved angle difference information, the proposed model provides an exact solution to the AC-OPF problem
+for mesh networks satisfying the cyclic constraints in a network.
+• Proposed a new control algorithm for Voltage Control of power distribution system with inverter-based distributed
+generation.
+• Designed and implemented a hardware test system for different experiments on smart-grid operation and control.
+
 
 * Fall 2015: Research Assistant
   * Github University
