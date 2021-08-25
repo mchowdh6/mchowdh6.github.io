@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:images/Tarik_s_Resume.pdf
   - /resume
 ---
-
-{% https://github.com/mchowdh6/mchowdh6.github.io/blob/master/images/Tarik_s_Resume.pdf %}
+[Download paper here](https://github.com/mchowdh6/mchowdh6.github.io/blob/master/files/Tarik_s_Resume.pdf)
+{%  %}
 
 Education
 ======
