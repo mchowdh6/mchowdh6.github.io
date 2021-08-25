@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% https://github.com/mchowdh6/mchowdh6.github.io/blob/master/images/Tarik_s_Resume.pdf %}
 
 Education
 ======
