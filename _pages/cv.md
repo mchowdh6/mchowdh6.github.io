@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from:images/Tarik_s_Resume.pdf
   - /resume
 ---
 
